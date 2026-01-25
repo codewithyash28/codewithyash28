@@ -3,11 +3,11 @@
 Self-taught developer from Bhiwandi / Mumbai, building AI tools for students and experimenting with new tech.  
 I love hackathons, side projects, and trying out futuristic ideas for student productivity.
 
-> **AI & Web Developer - Student Productivity Tools - Hackathon Enthusiast**
+> **AI & Web Developer · Student Productivity Tools · Hackathon Enthusiast**
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 - Self-taught developer from Bhiwandi / Mumbai, learning to code by building real projects.
 - Passionate about AI assistants, web apps, and solving student problems.
@@ -16,7 +16,22 @@ I love hackathons, side projects, and trying out futuristic ideas for student pr
 
 ---
 
-## Tech Stack ⚙️
+## 🚀 Featured Projects
+
+### 🎓 VidyaSathi AI Dashboard
+AI-powered student dashboard to plan study, track mood, and get smart suggestions using Gemini.
+
+### 🧠 NeuraFlow / NeuroPilot (AI Experiments)
+Experiments with AI agents, productivity tools, and smart workflows for students and creators.
+
+### 📚 Smart Study Planner
+Smart planner to organize subjects, sessions, and focus areas in a more intelligent way.
+
+> More projects are coming soon – I like shipping fast and improving in public.
+
+---
+
+## ⚙️ Tech Stack
 
 **Languages**  
 - Python  
@@ -44,7 +59,7 @@ I love hackathons, side projects, and trying out futuristic ideas for student pr
 
 ---
 
-## GitHub & Stats 📊
+## 📊 GitHub & Stats
 
 <div align="center">
 
@@ -58,7 +73,7 @@ I love hackathons, side projects, and trying out futuristic ideas for student pr
 
 ---
 
-## Future Goals 🚀
+## 🎯 Future Goals
 
 - Build more AI tools for students in India.
 - Participate in AI + education hackathons.
@@ -66,7 +81,7 @@ I love hackathons, side projects, and trying out futuristic ideas for student pr
 
 ---
 
-## Contact / Connect 🤝
+## 🤝 Contact / Connect
 
 - Gmail: [codewithyash28@gmail.com](mailto:codewithyash28@gmail.com)  
 - Outlook: [codewithyash28@outlook.com](mailto:codewithyash28@outlook.com)  
