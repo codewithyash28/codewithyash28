@@ -86,16 +86,16 @@ Yahan tu baad me apne real links dal sakta hai, jaise:
 - 🧠 **NeuraFlow AI – Offline Smart Chrome Assistant**
   - NeuraFlow AI is a smart Chrome extension that blends tab management, reading, and writing tools into one. It summarizes web pages, rewrites and proofreads text, and helps you focus with live tab grouping and Pomodoro sessions—all fully offline using Chrome’s built-in AI features.
   - Tech: Chrome Extensions, JavaScript, Chrome AI APIs, Productivity & Focus Tools
-  - Repo: [NeuraFlow AI](https://github.com/codewithyash28/NeuraFlow-AI) 
+  - Repo: [NeuraFlow AI] 
 
 - 🎓 **Vidya Sathi AI – Bharat-first Student Companion**
   - A Bharat-first, offline-friendly AI companion for college students in tier-2 cities, prioritizing low bandwidth, Hinglish support, and practical student life needs.
   - Tech: Python / Node.js, LLM APIs / Local Models, Hindi–English (Hinglish) NLP, Offline-first Architecture
-  - Repo: [Vidya Sathi AI](https://github.com/codewithyash28/vidya-sathi-ai) 
+  - Repo: [Vidya Sathi AI]
 - ⚡ **Flash UI – Gemini 3 Flash Powered UI Generator**
   - Put Gemini 3 Flash's creativity and coding abilities to the test. Rapidly generate UI, explore design variations, and export production-ready code in seconds.
   - Tech: Gemini 3 Flash, React / Next.js, TypeScript, Tailwind CSS, UI Code Generation
-  - Repo: [Flash UI](https://github.com/codewithyash28/flash-ui) 
+  - Repo: [Flash UI]
 `
 
 ---
