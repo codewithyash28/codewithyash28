@@ -37,14 +37,13 @@
 - 📱 Phone: **7758844409**
 - 📧 Email: **codewithyash28@gmail.com**
 - 🐙 GitHub: [github.com/codewithyash28](https://github.com/codewithyash28)
-- ▶️ YouTube (if you want to add): `[Add your channel link here]`
+- ▶️ Website: https://yash-choubey-portfolio.vercel.app/
 
 ---
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](#)
+
+
 
 <!--
 Yahan tu baad me apne real links dal sakta hai, jaise:
@@ -82,17 +81,22 @@ Yahan tu baad me apne real links dal sakta hai, jaise:
 
 <!-- Yahan maine placeholders rakhe hain, tu inko apne real projects se replace karna -->
 
-- 🧠 **Project 1 – AI / Automation**
-  - Short description: Example – "Voice-based personal assistant using Python and APIs."
-  - Repo: `[Add GitHub link]`
+## 📂 Featured Projects
 
-- 🌐 **Project 2 – Full Stack Web App**
-  - Short description: Example – "MERN stack app with authentication & dashboard."
-  - Repo: `[Add GitHub link]`
+- 🧠 **NeuraFlow AI – Offline Smart Chrome Assistant**
+  - NeuraFlow AI is a smart Chrome extension that blends tab management, reading, and writing tools into one. It summarizes web pages, rewrites and proofreads text, and helps you focus with live tab grouping and Pomodoro sessions—all fully offline using Chrome’s built-in AI features.
+  - Tech: Chrome Extensions, JavaScript, Chrome AI APIs, Productivity & Focus Tools
+  - Repo: [NeuraFlow AI](https://github.com/codewithyash28/NeuraFlow-AI) 
 
-- 📱 **Project 3 – Frontend Project**
-  - Short description: Example – "Responsive portfolio / landing page."
-  - Repo: `[Add GitHub link]`
+- 🎓 **Vidya Sathi AI – Bharat-first Student Companion**
+  - A Bharat-first, offline-friendly AI companion for college students in tier-2 cities, prioritizing low bandwidth, Hinglish support, and practical student life needs.
+  - Tech: Python / Node.js, LLM APIs / Local Models, Hindi–English (Hinglish) NLP, Offline-first Architecture
+  - Repo: [Vidya Sathi AI](https://github.com/codewithyash28/vidya-sathi-ai) 
+- ⚡ **Flash UI – Gemini 3 Flash Powered UI Generator**
+  - Put Gemini 3 Flash's creativity and coding abilities to the test. Rapidly generate UI, explore design variations, and export production-ready code in seconds.
+  - Tech: Gemini 3 Flash, React / Next.js, TypeScript, Tailwind CSS, UI Code Generation
+  - Repo: [Flash UI](https://github.com/codewithyash28/flash-ui) 
+`
 
 ---
 
