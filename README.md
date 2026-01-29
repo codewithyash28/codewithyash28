@@ -37,7 +37,7 @@
 - 📱 Phone: **7758844409**
 - 📧 Email: **codewithyash28@gmail.com**
 - 🐙 GitHub: [github.com/codewithyash28](https://github.com/codewithyash28)
-- ▶️ Website: yashchoubey-portfolio.netlify.app
+- ▶️ Website:https://yashchoubey.netlify.app/
 
 ---
 
